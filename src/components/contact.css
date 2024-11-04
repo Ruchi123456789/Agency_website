@@ -1,0 +1,97 @@
+.contact-container {
+ margin: auto;
+ width: 1200px;
+ min-height: 550px;
+ border: 1px solid black;
+ display: flex;
+
+ .title {
+    font-size: 50px;
+    font-weight: 700;
+    width: 500px;
+ }
+
+ .fullName {
+   .inputBox {
+      width: 650px;
+      border-radius: 5px;
+      height: 30px;
+   }
+ }
+
+ .form {
+   width: 700px;
+ }
+
+ label {
+   display: block;
+   font-weight: bold;
+   margin-bottom: 5px;
+ }
+
+.form-group {
+   display: block;
+   margin-bottom: 20px;
+ }
+
+ .company {
+  
+   .inputBox {
+      width: 300px;
+      border-radius: 5px;
+      height: 30px;
+   }
+ }
+
+ .email {
+ 
+   margin-left:50px;
+   .inputBox {
+      width: 290px;
+      border-radius: 5px;
+      height: 30px;
+   }
+   
+ }
+
+ .company-email {
+   display: flex;
+ }
+
+ .service {
+   select {
+      width: 300px;
+      border-radius: 5px;
+      height: 30px;
+   }
+ }
+
+ .budget{
+   margin-left:56px;
+
+   select {
+      width: 300px;
+      border-radius: 5px;
+      height: 30px;
+   }
+ }
+
+ .projectDetails {
+   textarea {
+      width: 650px;
+      border-radius: 5px;
+   }
+ }
+
+ .fields {
+   margin-top: 30px;;
+ }
+
+ button {
+   width: 250px;
+   height: 35px;
+   border-radius: 12px;
+   background: lightgreen;
+   font-size: 18px;
+}
+}

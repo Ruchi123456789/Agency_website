@@ -1,0 +1,40 @@
+.footer {
+    background: black;
+    height: 400px;
+    margin-top: 20px;
+    
+}
+
+.footer ul li {
+    color: white;
+    list-style-type: none;
+    line-height: 2;
+    font-weight: 600;
+}
+
+.list {
+    /* padding: 0px 50px; */
+    margin: 20px 110px;
+}
+
+.title {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.heading p {
+    width: 500px;
+    margin: auto;
+}
+
+.list-table {
+    display: flex;
+    text-align: center;
+    margin-top:20px;
+}
