@@ -1,0 +1,22 @@
+.accordion {
+    width: 1200px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top:30px;
+
+    h1 {
+        text-align: center;
+    }
+}
+
+.faq-item {
+    width: 1180px;
+    margin: auto;
+    border: 1px solid black;
+    margin: 10px 0px;
+    padding:10px;
+}
+
+.arrow {
+    float: right;
+}
