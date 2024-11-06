@@ -5,6 +5,7 @@ import Contact from './components/contact';
 import AnimatedCursor from "react-animated-cursor";
 import Footer from "./components/footer";
 import Accordion from "./components/accordion";
+import Carousel from "./components/carousel";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
      <Navbar />
      <Contact />
      <Accordion />
+     <Carousel />
      <Footer />
     </>
   );
